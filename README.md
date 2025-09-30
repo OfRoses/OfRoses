@@ -16,7 +16,7 @@ I'm **Rodrigo**, a Computer Science student passionate about leveraging data to 
 
 ### Core Focus Areas:
 
-| Área | Descrição |
+| Area | Description |
 | :--- | :--- |
 | **Data Analysis & Visualization** | Extracting actionable insights from complex datasets to inform strategic decision-making. |
 | **Machine Learning Engineering** | Developing robust models across diverse domains (Computer Vision, NLP, Regression) using state-of-the-art libraries. |
@@ -28,13 +28,13 @@ I'm **Rodrigo**, a Computer Science student passionate about leveraging data to 
 
 ### 📊 Data Analysis & Regression
 
-| Projeto | Descrição | Técnicas Chave |
+| Project | Desciption | Key Techniques |
 | :--- | :--- | :--- |
 | **Advanced Regressive Methods** | Demonstrates use cases in **Advanced Regression Modeling** and **Model Optimization**. Focuses on building, tuning (`GridSearchCV`), and evaluating diverse models (e.g., SVR, Gradient Boosting) for highly accurate predictive tasks. | `sklearn`, `GridSearchCV`, Ensemble Methods, MAE/MSE. |
 
 ### 🧠 Deep Learning & Computer Vision
 
-| Projeto | Descrição | Técnicas Chave |
+| Project | Desciption | Key Techniques |
 | :--- | :--- | :--- |
 | **Masters' Degree Vision Transformer for Planting Failure** | My biggest project, developed for my Master's research. This implements an **Image Classification** solution using a cutting-edge **Vision Transformer (ViT)** model, fine-tuned for an agricultural dataset (classifying between Plant, Soil, and Straw). The solution leverages **Transfer Learning** to achieve high classification performance. | **ViT**, **Transfer Learning**, `Hugging Face Transformers`, `PyTorch`, Image Classification. |
 | **License Plate Detection (CNN)** | Details the development of a **Convolutional Neural Network (CNN)**-based solution for **License Plate Localization**. This core component of an ANPR system predicts bounding box coordinates, demonstrating proficiency in Object Detection. | **CNN**, **VGG16**, **Localization/Regression**, `Keras/TensorFlow`, IoU. |
