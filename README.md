@@ -3,9 +3,6 @@
 
 # 🌹 Rodrigo's Data Science & Machine Learning Portfolio 🧠
 
-<div align="center">
-  <img src="https://i.imgur.com/gK9xG6Z.png" alt="Header Image Placeholder" width="600"/> 
-  </div>
 
 ## ✨ Welcome
 
