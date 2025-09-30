@@ -6,7 +6,7 @@
 
 ## ✨ Welcome
 
-Welcome to my GitHub portfolio! Here, you'll find a collection of Jupyter notebooks and codebases showcasing my journey and projects in **Data Science**, **Machine Learning**, and **Cloud-based AI solutions** using Azure. My focus is on moving models from notebooks to scalable, production-ready environments.
+Welcome to my GitHub portfolio! Here, you'll find a collection of codebases showcasing my journey and projects in **Data Science**, **Machine Learning**, and **Cloud-based AI solutions** using Azure. My focus is on moving models from notebooks to scalable, production-ready environments.
 
 ---
 
